@@ -1,5 +1,5 @@
 # ASR Retrain Ebrenc Catalan
-Authors: Berta Benet Cugat, Maria Elena Budan (equal parts)
+Authors: [Berta Benet i Cugat](https://github.com/bertabenet) and [Maria Elena Budan](https://github.com/marilenabudan) (equal parts)
 _______________________
 In this repository you will be able to find the following:
 - The audio files used for the retraining of the model [here](https://github.com/marilenabudan/ASR_Retrain_Ebrenc_Catalan/tree/master/Audio%20files)
