@@ -8,4 +8,4 @@ In this repository you will be able to find the following:
 - The retrained acoustic model [here](https://github.com/marilenabudan/ASR_Retrain_Ebrenc_Catalan/tree/master/Retrained%20acoustic%20model)
 - A simple java code used for testing both models and computing the respective WERs [here](https://github.com/marilenabudan/ASR_Retrain_Ebrenc_Catalan/tree/master/Test%20code)
 
-In this main page you will also find the slides used in the presentation of the project for the class of Advances in Speech Technologies in UPF on the year 2019-2020.
+In this main page you will also find the slides used in the presentation of the project for the class of Advances in Speech Technologies in [UPF](https://www.upf.edu) on the year 2019-2020.
